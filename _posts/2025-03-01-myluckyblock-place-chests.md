@@ -1,7 +1,7 @@
 ---
 title: 4.放置箱子
 author: Sycamore0
-date: 2025-03-01 23:10:00 +0800
+date: 2025-03-01 23:14:00 +0800
 categories: [简体中文, MyLuckyBlock]
 tags: [MyLuckyBlock]
 ---

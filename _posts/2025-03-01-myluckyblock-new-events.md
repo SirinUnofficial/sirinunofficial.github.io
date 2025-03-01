@@ -1,7 +1,7 @@
 ---
 title: 1.添加事件
 author: Sycamore0
-date: 2025-03-01 23:10:00 +0800
+date: 2025-03-01 23:11:00 +0800
 categories: [简体中文, MyLuckyBlock]
 tags: [MyLuckyBlock]
 ---

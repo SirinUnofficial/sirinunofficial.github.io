@@ -1,7 +1,7 @@
 ---
 title: 2.掉落物品
 author: Sycamore0
-date: 2025-03-01 23:10:00 +0800
+date: 2025-03-01 23:12:00 +0800
 categories: [简体中文, MyLuckyBlock]
 tags: [MyLuckyBlock]
 ---

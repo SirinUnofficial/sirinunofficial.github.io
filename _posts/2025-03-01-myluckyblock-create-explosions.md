@@ -1,7 +1,7 @@
 ---
 title: 6.创建爆炸
 author: Sycamore0
-date: 2025-03-01 23:10:00 +0800
+date: 2025-03-01 23:16:00 +0800
 categories: [简体中文, MyLuckyBlock]
 tags: [MyLuckyBlock]
 ---
