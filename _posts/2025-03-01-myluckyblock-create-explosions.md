@@ -2,8 +2,8 @@
 title: 6.创建爆炸
 author: Sycamore0
 date: 2025-03-01 23:16:00 +0800
-categories: [简体中文, MyLuckyBlock]
-tags: [MyLuckyBlock]
+categories: [简体中文, 我的幸运方块
+tags: [我的幸运方块]
 ---
 
 # 创建爆炸create_explosions

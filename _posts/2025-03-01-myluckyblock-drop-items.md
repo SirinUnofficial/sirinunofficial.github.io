@@ -2,8 +2,8 @@
 title: 2.掉落物品
 author: Sycamore0
 date: 2025-03-01 23:12:00 +0800
-categories: [简体中文, MyLuckyBlock]
-tags: [MyLuckyBlock]
+categories: [简体中文, 我的幸运方块
+tags: [我的幸运方块]
 ---
 
 # 掉落物品drop_items
