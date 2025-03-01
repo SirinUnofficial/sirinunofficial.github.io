@@ -1,0 +1,23 @@
+---
+title: MyLuckyBlock Summary
+author: Sycamore0
+date: 2025-03-01 23:10:00 +0800
+categories: [English, MyLuckyBlock]
+tags: [MyLuckyBlock]
+pin: true
+---
+
+# Annoumcement
+
+> ｡:.ﾟヽ(*´∀`)ﾉﾟ.:｡
+{: .prompt-tip }
+
+Welcome to MyLuckyBlock's Wiki~
+
+## Todo
+### Remove special Items
+like Hero's Sword, I plan to move them to extra mod/datapack
+### Other Loader Support
+NeoForge?
+### Lower Game Version Support
+Maybe not
